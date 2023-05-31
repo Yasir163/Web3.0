@@ -27,7 +27,7 @@ Market Rates: The application provides real-time market rates, allowing users to
 # Getting Started
 To run CryptoHub locally, follow these steps:
 
-Clone the repository: git clone https://github.com/Yasir163/CryptoHub.git
+Clone the repository: git clone https://github.com/your-username/CryptoHub.git
 Navigate to the project directory: cd CryptoHub
 Install dependencies: npm install
 Start the development server: npm start
